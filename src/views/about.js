@@ -20,7 +20,7 @@ import FiberManualRecordIcon from "@material-ui/icons/FiberManualRecord";
 // Assets
 import ResumeThumbnail from "../assets/imgs/resume.png";
 import PdfIcon from "../assets/imgs/pdf.png";
-import ResumePdf from "../assets/abdallahbedir-cv.pdf";
+import ResumePdf from "../assets/AbdallahBedirResume.pdf";
 
 const styles = (theme) => ({
   root: {
@@ -100,6 +100,17 @@ const styles = (theme) => ({
 function About(props) {
   const { classes } = props;
   const employment = [
+    <React.Fragment>
+      Senior Front end Developer at{" "}
+      <Link
+        href="https://www.evolvice.de/en/"
+        target="_blank"
+        color="textPrimary"
+      >
+        Evolvice GmbH.
+      </Link>{" "}
+      2021.
+    </React.Fragment>,
     <React.Fragment>
       Senior Front end Developer at{" "}
       <Link href="https://www.usytech.com/" target="_blank" color="textPrimary">

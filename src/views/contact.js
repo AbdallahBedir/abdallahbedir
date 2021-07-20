@@ -164,7 +164,7 @@ function Contact(props) {
     },
     {
       icon: <Phone />,
-      text: "+201093196507",
+      text: "+201122427353",
     },
   ];
   const links = [
