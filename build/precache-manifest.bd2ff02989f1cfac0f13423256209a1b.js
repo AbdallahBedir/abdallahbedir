@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "baa6d1937c7be71171e90bb3a4200dec",
+    "revision": "8c8da5b571c8d952c1b93fca6ab55047",
     "url": "./index.html"
   },
   {
-    "revision": "7b9bb6aacac3f77613bf",
+    "revision": "b93cd7d2d8e3a183ebcd",
     "url": "./static/css/main.77bcb99b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.309c2f26.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7b9bb6aacac3f77613bf",
-    "url": "./static/js/main.865b49a2.chunk.js"
+    "revision": "b93cd7d2d8e3a183ebcd",
+    "url": "./static/js/main.6d117263.chunk.js"
   },
   {
     "revision": "66c20c647bc5e262ede4",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/0E0M5W9O3V.77da96ee.jpg"
   },
   {
-    "revision": "551e4f03b8734191290850614da5347c",
-    "url": "./static/media/abdallahbedir-cv.551e4f03.pdf"
+    "revision": "f05cde24785d4217e00acf749034a074",
+    "url": "./static/media/AbdallahBedirResume.f05cde24.pdf"
   },
   {
     "revision": "71f1da253ceb6c178fe7d07066e240a3",
@@ -104,8 +104,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/reactjs-notes-for-professional.8bb7bdbd.png"
   },
   {
-    "revision": "1c13467abdbff4ec6119fd9e4c8400d0",
-    "url": "./static/media/resume.1c13467a.png"
+    "revision": "fcd92d8238792a0767521fb1322df9d6",
+    "url": "./static/media/resume.fcd92d82.png"
   },
   {
     "revision": "44eb04d7f2846cd03e7e032ee10fc56f",

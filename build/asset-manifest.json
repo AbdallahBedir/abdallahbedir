@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "./static/css/main.77bcb99b.chunk.css",
-    "main.js": "./static/js/main.865b49a2.chunk.js",
-    "main.js.map": "./static/js/main.865b49a2.chunk.js.map",
+    "main.js": "./static/js/main.6d117263.chunk.js",
+    "main.js.map": "./static/js/main.6d117263.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.023111e9.js",
     "runtime-main.js.map": "./static/js/runtime-main.023111e9.js.map",
     "static/js/2.309c2f26.chunk.js": "./static/js/2.309c2f26.chunk.js",
     "static/js/2.309c2f26.chunk.js.map": "./static/js/2.309c2f26.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.cdff39e5161ef71b598a908b96343d42.js": "./precache-manifest.cdff39e5161ef71b598a908b96343d42.js",
+    "precache-manifest.bd2ff02989f1cfac0f13423256209a1b.js": "./precache-manifest.bd2ff02989f1cfac0f13423256209a1b.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.77bcb99b.chunk.css.map": "./static/css/main.77bcb99b.chunk.css.map",
     "static/js/2.309c2f26.chunk.js.LICENSE.txt": "./static/js/2.309c2f26.chunk.js.LICENSE.txt",
     "static/media/0E0M5W9O3V.jpg": "./static/media/0E0M5W9O3V.77da96ee.jpg",
-    "static/media/abdallahbedir-cv.pdf": "./static/media/abdallahbedir-cv.551e4f03.pdf",
+    "static/media/AbdallahBedirResume.pdf": "./static/media/AbdallahBedirResume.f05cde24.pdf",
     "static/media/aklney.png": "./static/media/aklney.71f1da25.png",
     "static/media/classic.png": "./static/media/classic.5c1425de.png",
     "static/media/e4sc.png": "./static/media/e4sc.0c4eace6.png",
@@ -32,7 +32,7 @@
     "static/media/ng-book.jpg": "./static/media/ng-book.88a02b4c.jpg",
     "static/media/properties-app.png": "./static/media/properties-app.8a1502a3.png",
     "static/media/reactjs-notes-for-professional.png": "./static/media/reactjs-notes-for-professional.8bb7bdbd.png",
-    "static/media/resume.png": "./static/media/resume.1c13467a.png",
+    "static/media/resume.png": "./static/media/resume.fcd92d82.png",
     "static/media/screen.png": "./static/media/screen.44eb04d7.png",
     "static/media/space-inc.png": "./static/media/space-inc.4208e22c.png",
     "static/media/tasmen.png": "./static/media/tasmen.74a6aa7c.png",
@@ -44,6 +44,6 @@
     "static/js/runtime-main.023111e9.js",
     "static/js/2.309c2f26.chunk.js",
     "static/css/main.77bcb99b.chunk.css",
-    "static/js/main.865b49a2.chunk.js"
+    "static/js/main.6d117263.chunk.js"
   ]
 }
