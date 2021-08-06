@@ -97,6 +97,7 @@ const Skills: React.FC<Props> = ({ classes }) => {
         { name: "React.js", percentage: 97 },
         { name: "Typescript", percentage: 94 },
         { name: "Redux(react-redux/ngrx)", percentage: 93 },
+        { name: "Microservices/Micro front-end", percentage: 88 },
         { name: "Docker", percentage: 95 },
         { name: "AWS/Kubernetes", percentage: 88 },
         { name: "TypeScript/ECMAScript 6 /JavaScript", percentage: 97 },
